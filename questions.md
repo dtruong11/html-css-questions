@@ -52,7 +52,7 @@ div .card.active #something p.important {
 ## Do all HTML tags have an end tag? Give examples of tags with no end tags
 <details>
   <summary>Answer here</summary>
-  No. <image> tag, <br> tag
+  No. ```<image> ```tag, ```<br>``` tag
 </details>
 <br>
 
@@ -68,6 +68,7 @@ div .card.active #something p.important {
 
 <details>
   <summary>Answer here</summary>
+  ```
   <table>
 <tr>
 <th>
@@ -77,6 +78,7 @@ div .card.active #something p.important {
 <tbody>
 <thead>
 <tfooter>
+```
 </details>
 <br>
 
