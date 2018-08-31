@@ -105,7 +105,6 @@ div .card.active #something p.important {
 ```iframe
 <iframe src="URL"></iframe>
 ```
-</pre>
 <details>
   The HTML iframe tag is used to display a nested webpage. In other words, it represents a webpage within a webpage. The HTML <iframe> tag defines an inline frame. For example:
 
@@ -144,6 +143,7 @@ No, It is used to instruct the web browser about the HTML page.
 <br>
 
 ## What is the difference between progress and meter tag?
+
 ```progress
 <progress value="43" max="100"></progress>
  ```
