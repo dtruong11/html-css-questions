@@ -64,7 +64,7 @@ div .card.active #something p.important {
 
 <details>
   <summary>Answer here</summary>
-  The HTML contains six types of headings which are defined with the <h1> to <h6> tags
+  The HTML contains six types of headings which are defined with the h1 to h6 tags
 </details>
 <br>
 
@@ -114,7 +114,7 @@ div .card.active #something p.important {
 ## What are empty elements??
 
 <details>
-  HTML elements with no content are called empty elements. For example: <br>, <hr> etc.
+  HTML elements with no content are called empty elements. For example: br tags, hr tags etc.
 </details>
 <br>
 
