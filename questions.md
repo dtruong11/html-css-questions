@@ -50,9 +50,14 @@ div .card.active #something p.important {
 <br>
 
 ## Do all HTML tags have an end tag? Give examples of tags with no end tags
+
 <details>
   <summary>Answer here</summary>
-  No. ```<image> ```tag, ```<br>``` tag
+  No.
+  ```no_end_tags
+  <image>
+  <br>
+  ```
 </details>
 <br>
 
@@ -68,7 +73,7 @@ div .card.active #something p.important {
 
 <details>
   <summary>Answer here</summary>
-  ```
+  ```tabular_form
   <table>
   <tr>
   <th>
@@ -101,6 +106,7 @@ div .card.active #something p.important {
 ## How to create a nested webpage in HTML?
 <details>
   The HTML iframe tag is used to display a nested webpage. In other words, it represents a webpage within a webpage. The HTML <iframe> tag defines an inline frame. For example:
+
 </details>
 <br>
 
@@ -117,7 +123,8 @@ For adding color on text
 For adding background on text
 Highlight any color text
 
-```  <p>  
+```span_example
+ <p>  
   <span style="color:#ffffff;">  
   In this page we use span.  
   </span>  
@@ -129,7 +136,7 @@ Highlight any color text
 ## What is the use of an iframe tag?
 
 <details>
-```
+```iframe
 <iframe src="URL"></iframe>
  ```
 </details>
@@ -148,7 +155,7 @@ No, <!DOCTYPE html> is used to instruct the web browser about the HTML page.
 <details>
 
 The progress tag is used to represent the progress of the task only while the meter tag is used to measure data within a given range.
-```
+```progress
 <progress value="43" max="100"></progress>
  ```
 </details>
