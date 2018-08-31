@@ -70,14 +70,14 @@ div .card.active #something p.important {
   <summary>Answer here</summary>
   ```
   <table>
-<tr>
-<th>
-<td>
-<caption>
-<colgroup>
-<tbody>
-<thead>
-<tfooter>
+  <tr>
+  <th>
+  <td>
+  <caption>
+  <colgroup>
+  <tbody>
+  <thead>
+  <tfooter>
 ```
 </details>
 <br>
@@ -97,14 +97,10 @@ div .card.active #something p.important {
   eg: <strong>, <em> intsead of <b>(bold) or <i>(italics)
 </details>
 <br>
+
 ## How to create a nested webpage in HTML?
 <details>
   The HTML iframe tag is used to display a nested webpage. In other words, it represents a webpage within a webpage. The HTML <iframe> tag defines an inline frame. For example:
-</details>
-<br>
-## What are empty elements?
-<details>
-  HTML elements with no content are called empty elements. For example: <br>, <hr> etc.
 </details>
 <br>
 
