@@ -50,14 +50,13 @@ div .card.active #something p.important {
 <br>
 
 ## Do all HTML tags have an end tag? Give examples of tags with no end tags
-
+```no_end_tags
+  <image>
+  <br>
+```
 <details>
   <summary>Answer here</summary>
   No.
-  ```no_end_tags
-  <image>
-  <br>
-  ```
 </details>
 <br>
 
@@ -70,10 +69,7 @@ div .card.active #something p.important {
 <br>
 
 ## Which HTML tag is used to display tabular form?
-
-<details>
-  <summary>Answer here</summary>
-  ```tabular_form
+```tabular_form
   <table>
   <tr>
   <th>
@@ -84,6 +80,8 @@ div .card.active #something p.important {
   <thead>
   <tfooter>
 ```
+<details>
+  <summary>Answer here</summary>
 </details>
 <br>
 
@@ -104,6 +102,10 @@ div .card.active #something p.important {
 <br>
 
 ## How to create a nested webpage in HTML?
+```iframe
+<iframe src="URL"></iframe>
+```
+</pre>
 <details>
   The HTML iframe tag is used to display a nested webpage. In other words, it represents a webpage within a webpage. The HTML <iframe> tag defines an inline frame. For example:
 
@@ -118,45 +120,36 @@ div .card.active #something p.important {
 <br>
 
 ## What is the use of a span tag? Give one example.
+```span_example
+   <p>  
+    <span style="color:#ffffff;">  
+    In this page we use span.  
+    </span>  
+  </p>  
+```
 <details>
 For adding color on text
 For adding background on text
 Highlight any color text
-
-```span_example
- <p>  
-  <span style="color:#ffffff;">  
-  In this page we use span.  
-  </span>  
-  </p>  
-```
 </details>
 <br>
 
-## What is the use of an iframe tag?
-
-<details>
-```iframe
-<iframe src="URL"></iframe>
- ```
-</details>
-<br>
 
 ## Is a <!DOCTYPE html> tag is a HTML tag?
 
 <details>
 
-No, <!DOCTYPE html> is used to instruct the web browser about the HTML page.
+No, It is used to instruct the web browser about the HTML page.
 </details>
 <br>
 
 ## What is the difference between progress and meter tag?
-
-<details>
-
-The progress tag is used to represent the progress of the task only while the meter tag is used to measure data within a given range.
 ```progress
 <progress value="43" max="100"></progress>
  ```
+<details>
+
+The progress tag is used to represent the progress of the task only while the meter tag is used to measure data within a given range.
+
 </details>
 <br>
